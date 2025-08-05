@@ -120,3 +120,13 @@
     sprite: _Floof/Clothing/OuterClothing/Misc/shackles.rsi
   - type: Clothing
     sprite: _Floof/Clothing/OuterClothing/Misc/shackles.rsi
+- type: entity
+  parent: ClothingOuterBase
+  id: ClothingOuterQoH
+  name: Queen of Love dress
+  description: A magical dress. Fighting in the name of love!
+  components:
+  - type: Sprite
+    sprite: _Floof/Clothing/OuterClothing/Misc/qohdress.rsi
+  - type: Clothing
+    sprite: _Floof/Clothing/OuterClothing/Misc/qohdress.rsi

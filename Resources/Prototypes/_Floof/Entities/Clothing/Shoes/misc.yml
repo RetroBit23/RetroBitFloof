@@ -1,0 +1,11 @@
+- type: entity
+  parent: ClothingShoesBase
+  id: ClothingShoesQoH
+  name: Queen of Love stockings
+  description: A magical pair of stockings. Fighting in the name of love!
+  components:
+  - type: Sprite
+    sprite: _Floof/Clothing/Shoes/Misc/qohstockings.rsi
+  - type: Clothing
+    sprite: _Floof/Clothing/Shoes/Misc/qohstockings.rsi
+
